@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\new program bhargav\corejava\corejava1\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2128316705.index
+2769099310.index
+1819526218.index
+37648820.index
+4080882965.index
+1455078596.index
